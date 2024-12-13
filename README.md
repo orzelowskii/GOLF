@@ -1,4 +1,4 @@
-# Projekt Gry 'Golf' - README\
+# Projekt Gry 'Golf' - README
 
 ## Opis Projektu
 
