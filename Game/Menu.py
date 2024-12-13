@@ -69,7 +69,7 @@ class Menu:
         """
         print()
         try:
-            with open("ranking.txt", 'r') as file:
+            with open("../Rules/ranking.txt", 'r') as file:
                 content = file.read()
                 if content.strip():
                     print(Fore.CYAN + "Spis rozgrywek:" + Style.RESET_ALL)
@@ -86,7 +86,7 @@ class Menu:
         :return: None
         """
         try:
-            with open('Rules.txt', 'r') as file:
+            with open('../Rules/Rules.txt', 'r') as file:
                 lines = file.readlines()
             for line in lines:
                 if line.strip().startswith("ZASADY GRY 'Golf'"):

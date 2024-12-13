@@ -382,7 +382,7 @@ class Game:
         :return: None
         """
         game_name = input("Podaj nazwę gry: ")
-        file_name = "ranking.txt"
+        file_name = "../Rules/ranking.txt"
 
         sorted_players = sorted(list_of_players, key=lambda player: player.points, reverse=False)
 
