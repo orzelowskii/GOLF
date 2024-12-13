@@ -1,0 +1,30 @@
+[33mNazwa gry: 1 gra
+[0m[31m===============================
+[0mid: 1, name: kuba, points: 10
+id: 2, name: computer, points: 15
+[31m===============================
+[0m
+[33mNazwa gry: obrona
+[0m[31m===============================
+[0mid: 1, name: kuba, points: 12
+id: 2, name: computer, points: 17
+[31m===============================
+[0m
+[33mNazwa gry: obrona
+[0m[31m===============================
+[0mid: 1, name: kuba, points: 8
+id: 2, name: computer, points: 25
+[31m===============================
+[0m
+[33mNazwa gry: 1
+[0m[31m===============================
+[0mid: 3, name: q, points: 22
+id: 4, name: computer, points: 28
+[31m===============================
+[0m
+[33mNazwa gry: lulu
+[0m[31m===============================
+[0mid: 2, name: computer, points: 42
+id: 1, name: kuba, points: 46
+[31m===============================
+[0m
